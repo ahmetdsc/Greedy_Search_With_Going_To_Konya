@@ -1,0 +1,1 @@
+This Project Goes to Konya with Greedy Search Algorithm from Surrounding Provinces
